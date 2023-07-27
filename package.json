@@ -2,9 +2,9 @@
   "name": "youdy-utils",
   "version": "1.0.0",
   "description": "all the utils function for the youdy project",
-  "main": "index.ts",
+  "main": "dist/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "tsc" : "npx tsc"
   },
   "repository": {
     "type": "git",
@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/minuitagency/youdy#readme",
   "dependencies": {
-    "dayjs": "^1.11.9"
+    "dayjs": "^1.11.9",
+    "typescript": "^5.1.6"
   }
 }
