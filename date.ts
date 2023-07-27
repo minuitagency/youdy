@@ -1,4 +1,4 @@
-import dayjs from 'dayjs.locale';
+import dayjs from './dayjs.locale';
 
 export function dateStringToDateObject(dateString: string | undefined) {
 	if (!dateString) {
