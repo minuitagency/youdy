@@ -1,0 +1,26 @@
+{
+  "name": "youdy-utils",
+  "version": "1.0.0",
+  "description": "all the utils function for the youdy project",
+  "lib": "es2015",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minuitagency/youdy.git"
+  },
+  "keywords": [
+    "utils"
+  ],
+  "author": "minuit-agency",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/minuitagency/youdy/issues"
+  },
+  "homepage": "https://github.com/minuitagency/youdy#readme",
+  "dependencies": {
+    "dayjs": "^1.11.9"
+  }
+}
