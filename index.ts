@@ -13,3 +13,4 @@ export {
 export { isEmailValid, isPasswordStrong, isObjectEmpty, isSameObject } from './validation';
 export { addNumberInArray, getProgressBarPercent } from './number';
 export { dayjs };
+export {rating} from './rating'
